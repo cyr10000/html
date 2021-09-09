@@ -1,0 +1,11 @@
+http://htmlpreview.github.io/?
+GitHub & BitBucket HTML Preview
+Enter URL of the HTML file to preview: 
+e.g. https://github.com/user/repo/blob/master/index.html
+
+or prepend to the URL: http://htmlpreview.github.io/?https://github.com/twbs/bootstrap/blob/gh-pages/2.3.2/index.html
+在线预览主URL：http://htmlpreview.github.io/?
+源文件路径：https://github.com/cyr10000/html/blob/master/test.html
+
+
+在线预览：http://htmlpreview.github.io/?https://github.com/cyr10000/html/blob/master/test.html
